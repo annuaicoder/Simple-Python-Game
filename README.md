@@ -14,3 +14,13 @@ A beginner-friendly command-line quiz game built with Python. Test your knowledg
 ### Prerequisites
 
 - Python 3.x installed
+
+
+### Run the game
+
+python quiz.py
+
+
+# Maintained by @annuaicoder
+
+### Note: this project is for absolute beginners
