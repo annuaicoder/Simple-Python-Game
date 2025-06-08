@@ -24,3 +24,6 @@ python quiz.py
 # Maintained by @annuaicoder
 
 ### Note: this project is for absolute beginners
+
+
+### Link to youtuube video: https://www.youtube.com/watch?v=L4tw2W4-_ok&t=9s
